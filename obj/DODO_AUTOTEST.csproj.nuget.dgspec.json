@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hgjtu\\WORK\\DODO\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj": {}
+    "C:\\Users\\Lenovo ThinkPad\\Desktop\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj": {}
   },
   "projects": {
-    "C:\\hgjtu\\WORK\\DODO\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj": {
+    "C:\\Users\\Lenovo ThinkPad\\Desktop\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hgjtu\\WORK\\DODO\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo ThinkPad\\Desktop\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj",
         "projectName": "DODO_AUTOTEST",
-        "projectPath": "C:\\hgjtu\\WORK\\DODO\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj",
+        "projectPath": "C:\\Users\\Lenovo ThinkPad\\Desktop\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj",
         "packagesPath": "C:\\Users\\Lenovo ThinkPad\\.nuget\\packages\\",
-        "outputPath": "C:\\hgjtu\\WORK\\DODO\\DODO_AUTOTEST\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo ThinkPad\\Desktop\\DODO_AUTOTEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",

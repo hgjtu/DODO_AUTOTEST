@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CXrCr4wB0WcX9GRSrGYYJobwR29SYM4m2MForXM+OnT0R1lP+6bEaykeIKWIZw9DLjqcDQmsJqOArmCPvoe7eA==",
+  "dgSpecHash": "LqTP3b9ytQ0MYNH7BnfaaE/8UgxVe+QG5fh7VMPGCb9MbXZ6EIpohzCsDXva5sPUmXOWed+hiFeODbdyUMLzvw==",
   "success": true,
-  "projectFilePath": "C:\\hgjtu\\WORK\\DODO\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo ThinkPad\\Desktop\\DODO_AUTOTEST\\DODO_AUTOTEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo ThinkPad\\.nuget\\packages\\allure.net.commons\\2.12.0\\allure.net.commons.2.12.0.nupkg.sha512",
     "C:\\Users\\Lenovo ThinkPad\\.nuget\\packages\\allure.nunit\\2.12.0\\allure.nunit.2.12.0.nupkg.sha512",

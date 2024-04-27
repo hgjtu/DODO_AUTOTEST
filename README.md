@@ -24,27 +24,16 @@ dotnet test --filter TestСontacts
 ```
 
 ## Для того, чтобы собрать отчет в Allure:
-Необходимо сгенерировать результаты тестов:
 ```shell
-npx playwright test
+dotnet test
 ```
 
-Затем сгенерировать отчет:
+Затем перейти в директорию:
 ```shell
-allure generate allure-results -o allure-report --clean
+cd .\\bin\\Debug\\net7.0\\
 ```
 
-Для открытия отчета:
+Для генерации отчета:
 ```shell
-allure open allure-report
+allure serve
 ```
-
-
-## P.S.
-У меня не вышло подружиться с чем-то:
-```
-PS C:\hgjtu\WORK\DODO_AUTOTEST> npx playwright test
-Error: No tests found
-```
-Долго пыталась это исправить, но не вышло, в теории все должно работать, как описано, но, видимо я чего-то не сделала
-Также скриншоты в идеале должы делаться при помощи Allure, но, так как он у меня не сработал, реализовала при помощи try catch.
