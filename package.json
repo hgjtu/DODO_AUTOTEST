@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "allure-playwright": "^2.15.1"
+  }
+}
